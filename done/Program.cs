@@ -1,4 +1,4 @@
-namespace FinalControl
+﻿namespace FinalControl
 {
     class Program
     {
